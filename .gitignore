@@ -1,0 +1,17 @@
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Configuraciones locales de Visual Studio Code
+.vscode/
+
+# Archivos temporales del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
